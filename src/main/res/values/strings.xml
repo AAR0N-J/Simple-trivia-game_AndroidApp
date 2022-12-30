@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="yellowstone">Yellowstone is old or whatever</string>
+    <string name="question_text">boom blah blah boom boom</string>
+    <string name="ohio">bluh blah ohio</string>
+    <string name="india">India has lot people</string>
+    <string name="correct_toast">CORRECT!</string>
+    <string name="incorrect_toast">INCORRECT!</string>
+    <string name="doctor">Doctor Who has been on since the 60\'s.</string>
+    <string name="dogsSee">Dogs see in black and white.</string>
+    <string name="CSUMBcenter">CSUMB is 390 miles from both the Oregon and Mexcain borders.</string>
+    <string name="freshFish">Freshwater Fish drink water.</string>
+    <string name="saltFish">Saltwater Fish drink water.</string>
+    <string name="incorrect">incorrect</string>
+    <string name="correct">correct</string>
+    <string name="view_qs">ListViews</string>
+</resources>
